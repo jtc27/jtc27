@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&title_color=ffffff&bg_color=438AF4&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
  
   <a href="https://github.com/jtc27/bowling-challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&title_color=ffffff&bg_color=F4B543&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=bowling-challenge&title_color=ffffff&bg_color=EBA422&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
  
  
 
