@@ -28,7 +28,7 @@
 <a href="https://github.com/emanfolo/acebook-Jeamm-Team">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=9500CC&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
  
-<a href="https://github.com/jtc27/makers-bnb">
+<a href="https://github.com/ConorButler/makers-bnb">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=makers-bnb&title_color=ffffff&bg_color=C90E0E&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a> 
 
 </p>
