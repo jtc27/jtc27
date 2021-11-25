@@ -15,7 +15,7 @@
    <a href="https://github.com/jtc27/rps-challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=rps-challenge&title_color=ffffff&bg_color=18B400&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 
- <a href="https://github.com/jtc27?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repo-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+ <a href="https://github.com/jtc27?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Click%20for%20All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 📕 Top projects I've contributed to
