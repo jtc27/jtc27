@@ -10,7 +10,7 @@
 <p align="left">
  
  <a href="https://github.com/jtc27/instagram-challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&theme=buefy&title_color=375DF8" alt="instagram-challenge Ruby"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&theme=buefy&title_color=375DF8&show_icons=true" alt="instagram-challenge Ruby"/></a>
  
  
   
