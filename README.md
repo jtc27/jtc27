@@ -7,7 +7,7 @@
 <p align="left">
  
  <a href="https://github.com/jtc27/instagram-challenge" target="_blank">
-  <img align= width="350" "center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&title_color=ffffff&bg_color=438AF4&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&title_color=ffffff&bg_color=438AF4&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
  
   <a href="https://github.com/jtc27/bowling-challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=bowling-challenge&title_color=ffffff&bg_color=EBA422&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
