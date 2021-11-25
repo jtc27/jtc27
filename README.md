@@ -8,7 +8,7 @@
 <!-- Small repo cards (fork) - https://github.com/jtc27/github-readme-stats -->
 <p align="left">
  
- <a href="https://github.com/jtc27/instagram-challenge">
+ <a href="https://github.com/jtc27/instagram-challenge" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&title_color=ffffff&bg_color=438AF4&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
  
   <a href="https://github.com/jtc27/bowling-challenge">
