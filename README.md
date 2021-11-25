@@ -29,7 +29,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=9500CC&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
  
 <a href="https://github.com/ConorButler/makers-bnb">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=makers-bnb&title_color=ffffff&bg_color=CA0000&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=makers-bnb&title_color=ffffff&bg_color=B71414&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a> 
  
 
 </p>
