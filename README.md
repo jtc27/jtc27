@@ -26,7 +26,7 @@
 <p align="left">
  
 <a href="https://github.com/emanfolo/acebook-Jeamm-Team">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emanfolo&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=9500CC&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=9500CC&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
  
  
  
