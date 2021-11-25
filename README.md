@@ -5,15 +5,14 @@
 
 ## 📘 My top projects
 
-<!-- Repo info cards - https://github.com/jtc27/github-readme-stats -->
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/jtc27/github-readme-stats -->
 <p align="left">
  
  <a href="https://github.com/jtc27/instagram-challenge">
-  <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&theme=buefy&title_color=375DF8&show_owner=true" alt="instagram-challenge Ruby"/></a>
+  <img width="340" align="center" src="https://jtc27-github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&theme=buefy&title_color=375DF8&show_owner=true" alt="instagram-challenge Ruby"/></a>
  
  
-  
 
 
 ## 📕 Top projects I've contributed to
