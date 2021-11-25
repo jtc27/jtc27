@@ -4,7 +4,7 @@
 
 ## 📘 My top projects
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Repo info cards - https://github.com/jtc27/github-readme-stats -->
 
 
 
