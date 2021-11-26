@@ -5,6 +5,10 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/jtc27/github-readme-stats -->
 <p align="left">
+
+<a href="https://github.com/jtc27/Gilded-Rose-Ruby" target="_blank">
+<img width="340" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=Gilded-Rose-Ruby&title_color=ffffff&bg_color=fe7704&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<!--Orange-->
  
 <a href="https://github.com/jtc27/instagram-challenge" target="_blank">
 <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&title_color=ffffff&bg_color=438AF4&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
