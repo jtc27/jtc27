@@ -31,7 +31,7 @@
 <p align="left">
 
 <a href="https://github.com/jtc27/EP3-Gaming-FE">
-<img width="340" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=#0033cc&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<img width="340" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=0033cc&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Deep Blue-->
  
 <a href="https://github.com/jtc27/acebook-Jeamm-Team">
