@@ -25,10 +25,14 @@
  <a href="https://github.com/jtc27?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Of%20My%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 📕 Top projects I've contributed to
+## 📕 Group projects I've contributed to
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/jtc27/github-readme-stats -->
 <p align="left">
+
+<a href="https://github.com/jtc27/EP3-Gaming-FE">
+<img width="340" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=#0033cc&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<!--Deep Blue-->
  
 <a href="https://github.com/jtc27/acebook-Jeamm-Team">
 <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=9500CC&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
