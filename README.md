@@ -17,19 +17,19 @@ And here is my [LinkedIn page](linkedin.com/in/jtc27)
 <p align="left">
 
 <a href="https://github.com/jtc27/Gilded-Rose-Ruby" target="_blank">
-<img width="300" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=Gilded-Rose-Ruby&title_color=ffffff&bg_color=fe7704&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=Gilded-Rose-Ruby&title_color=ffffff&bg_color=fe7704&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Orange-->
  
 <a href="https://github.com/jtc27/instagram-challenge" target="_blank">
-<img width="300" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&title_color=ffffff&bg_color=438AF4&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&title_color=ffffff&bg_color=438AF4&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Blue-->
  
 <a href="https://github.com/jtc27/bowling-challenge">
-<img width="300" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=bowling-challenge&title_color=ffffff&bg_color=18B400&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=bowling-challenge&title_color=ffffff&bg_color=18B400&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Green-->
  
 <a href="https://github.com/jtc27/rps-challenge">
-<img width="300" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=rps-challenge&title_color=ffffff&bg_color=EBA422&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=rps-challenge&title_color=ffffff&bg_color=EBA422&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Yellow-->
 
  <a href="https://github.com/jtc27?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Of%20My%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
