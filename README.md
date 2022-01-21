@@ -5,11 +5,9 @@ Hi I'm Jacob, a full stack developer.  I like to find enjoyment in coding.  My a
 Here is my [CV on Github](https://github.com/jtc27/CV)<br>
 And here is my [LinkedIn page](linkedin.com/in/jtc27)
 
-[![jtc27's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtc27)](https://github.com/jtc27/github-readme-stats)
-
 <p align="center">
-  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=jtc27&show_icons=true" />  
-  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtc27&layout=compact" />
+  <img height="180px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=jtc27&show_icons=true" />  
+  <img height="180px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtc27&layout=compact" />
 </p>
 
 ## 📘 My top projects
@@ -43,15 +41,15 @@ And here is my [LinkedIn page](linkedin.com/in/jtc27)
 <p align="left">
 
 <a href="https://github.com/jtc27/EP3-Gaming-FE">
-<img width="340" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=EP3-Gaming-FE&title_color=ffffff&bg_color=0033cc&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<img width="300" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=EP3-Gaming-FE&title_color=ffffff&bg_color=0033cc&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Deep Blue-->
  
 <a href="https://github.com/jtc27/acebook-Jeamm-Team">
-<img width="340" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=9500CC&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<img width="300" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=9500CC&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Violet-->
  
 <a href="https://github.com/ConorButler/makers-bnb">
-<img width="340" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=makers-bnb&title_color=ffffff&bg_color=C90E0E&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a> 
+<img width="300" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=makers-bnb&title_color=ffffff&bg_color=C90E0E&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a> 
  <!--Red-->
 
 </p>
