@@ -6,8 +6,8 @@ Here is my [CV on Github](https://github.com/jtc27/CV)<br>
 And here is my [LinkedIn page](linkedin.com/in/jtc27)
 
 <p align="left">
-  <img height="180px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=jtc27&show_icons=true" />  
-  <img height="180px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtc27&layout=compact" />
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=jtc27&show_icons=true" />  
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtc27&layout=compact" />
 </p>
 
 ## 📘 My top projects
