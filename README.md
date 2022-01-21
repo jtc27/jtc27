@@ -1,7 +1,7 @@
-Hi I'm Jacob, a full stack developer.  I like to find enjoyment in coding.  My aim is to produce high quality products.  I'm a recent graduate of Makers Academy, 16 week coding bootcamp which has been highly regarded.
+Hi I'm Jacob, a full stack developer.  I like to find enjoyment in coding.  My aim is to produce high quality products.  I'm a recent graduate of [Makers Academy](https://makers.tech), 16 week coding bootcamp which has been highly regarded.  I finished this course in December of 2021.  Currently I am looking for work as a **Junior Software Developer**.
 
 Here is my [CV on Github](https://github.com/jtc27/CV)<br>
-[My LinkedIn](linkedin.com/in/jtc27)
+And my [LinkedIn page](linkedin.com/in/jtc27)
 
 [![jtc27's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtc27)](https://github.com/jtc27/github-readme-stats)
 
