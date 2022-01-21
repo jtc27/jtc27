@@ -41,15 +41,15 @@ And here is my [LinkedIn page](linkedin.com/in/jtc27)
 <p align="left">
 
 <a href="https://github.com/jtc27/EP3-Gaming-FE">
-<img width="300" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=EP3-Gaming-FE&title_color=ffffff&bg_color=0033cc&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=EP3-Gaming-FE&title_color=ffffff&bg_color=0033cc&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Deep Blue-->
  
 <a href="https://github.com/jtc27/acebook-Jeamm-Team">
-<img width="300" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=9500CC&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=acebook-Jeamm-Team&title_color=ffffff&bg_color=9500CC&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Violet-->
  
 <a href="https://github.com/ConorButler/makers-bnb">
-<img width="300" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=makers-bnb&title_color=ffffff&bg_color=C90E0E&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a> 
+<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=makers-bnb&title_color=ffffff&bg_color=C90E0E&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a> 
  <!--Red-->
 
 </p>
