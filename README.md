@@ -1,4 +1,4 @@
-Hi I'm Jacob, a full stack developer.  I like coding with a joyful attitude, and my aim is to produce high quality products.  I'm a recent graduate of Makers Academy, 16 week coding bootcamp which has been highly regarded.
+Hi I'm Jacob, a full stack developer.  I like to find enjoyment in coding.  My aim is to produce high quality products.  I'm a recent graduate of Makers Academy, 16 week coding bootcamp which has been highly regarded.
 
 [![jtc27's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtc27)](https://github.com/jtc27/github-readme-stats)
 
