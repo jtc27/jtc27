@@ -32,7 +32,6 @@ And here is my [LinkedIn page](linkedin.com/in/jtc27)
 <img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=rps-challenge&title_color=ffffff&bg_color=EBA422&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Yellow-->
 
- <a href="https://github.com/jtc27?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Of%20My%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 📕 Group projects I've contributed to
@@ -52,4 +51,5 @@ And here is my [LinkedIn page](linkedin.com/in/jtc27)
 <img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=makers-bnb&title_color=ffffff&bg_color=C90E0E&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a> 
  <!--Red-->
 
+   <a href="https://github.com/jtc27?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Click%20for%20my%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
