@@ -7,6 +7,11 @@ And here is my [LinkedIn page](linkedin.com/in/jtc27)
 
 [![jtc27's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtc27)](https://github.com/jtc27/github-readme-stats)
 
+<p align="center">
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=jtc27&show_icons=true" />  
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtc27&layout=compact" />
+</p>
+
 ## 📘 My top projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
