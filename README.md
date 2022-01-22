@@ -3,7 +3,7 @@
 Hi I'm Jacob, a full stack developer.  My aim is to produce high quality products.  I like to find enjoyment in coding.  I'm a recent graduate of [Makers Academy](https://makers.tech), 16 week coding bootcamp which has been highly regarded.  I finished this course in December of 2021.  Currently I am looking for work as a **Junior Software Developer**.
 
 Here is my [CV on Github](https://github.com/jtc27/CV)<br>
-And here is my [LinkedIn page](linkedin.com/in/jtc27)
+And here is my [LinkedIn page](https://linkedin.com/in/jtc27)
 
 <p align="left">
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=jtc27&show_icons=true" />  
