@@ -1,6 +1,8 @@
 ## About Me
 
-Hi I'm Jacob, a full stack developer.  My aim is to produce high quality products.  I like to find enjoyment in coding.  I'm a recent graduate of [Makers Academy](https://makers.tech), 16 week coding bootcamp which has been highly regarded.  I finished this course in December of 2021.  Currently I am looking for work as a **Junior Software Developer**.
+Hi I'm Jacob, a full stack developer.  My aim is to produce high quality products.  I like to find enjoyment in coding.  I'm a recent graduate of [Makers Academy](https://makers.tech), a 16 week coding bootcamp which has been highly regarded.  I finished this course in December of 2021.  Currently I am looking for work as a **Junior Software Developer**.
+
+Currently I am learning React.
 
 Here is my [CV on Github](https://github.com/jtc27/CV)<br>
 And here is my [LinkedIn page](https://linkedin.com/in/jtc27)
