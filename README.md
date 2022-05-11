@@ -16,8 +16,8 @@ And here is my [LinkedIn page](https://linkedin.com/in/jtc27)
 <!-- Small repo cards (fork) - https://github.com/jtc27/github-readme-stats -->
 <p align="left">
 
-<a href="https://github.com/jtc27/Gilded-Rose-Ruby" target="_blank">
-<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=Gilded-Rose-Ruby&title_color=ffffff&bg_color=fe7704&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<a href="https://github.com/jtc27/nba-players-react" target="_blank">
+<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=nba-players-react&title_color=ffffff&bg_color=fe7704&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Orange-->
  
 <a href="https://github.com/jtc27/instagram-challenge" target="_blank">
