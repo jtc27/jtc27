@@ -3,9 +3,9 @@
 Hi I'm Jacob, welcome to my page.  
 
 Tech:
-Javascript, React, HTML, CSS, Ruby, Rails, Heroku, MERN.
+Javascript, NODE, React, HTML, CSS, Bootstrap, Ruby, Rails, Heroku, Firebase, MERN.
 
-Here is my [CV on Github](https://github.com/jtc27/CV)<br>
+Here is resume: [CV on Github](https://github.com/jtc27/CV)<br>
 And here is my [LinkedIn page](https://linkedin.com/in/jtc27)
 
 <p align="left">
