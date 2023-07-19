@@ -1,11 +1,10 @@
-## About Me
-
 Hi I'm Jacob, welcome to my page.  
 
 Tech:
 Javascript, NODE, React, HTML, CSS, Bootstrap, Ruby, Rails, Heroku, Firebase, MERN.
 
-Here is resume: [CV on Github](https://github.com/jtc27/CV)<br>
+Resume: [CV on Github](https://github.com/jtc27/CV)<br>
+Website: [https://jtc27.github.io](https://jtc27.github.io)<br>
 And here is my [LinkedIn page](https://linkedin.com/in/jtc27)
 
 <p align="left">
@@ -19,6 +18,14 @@ And here is my [LinkedIn page](https://linkedin.com/in/jtc27)
 <!-- Small repo cards (fork) - https://github.com/jtc27/github-readme-stats -->
 <p align="left">
 
+<a href="https://github.com/jtc27/shopazon">
+<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=shopazon_online_shopping&title_color=ffffff&bg_color=18B400&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<!--Green-->
+ 
+<a href="https://github.com/jtc27/airbnb-clone-react">
+<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=myBnB&title_color=ffffff&bg_color=EBA422&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<!--Yellow-->
+
 <a href="https://github.com/jtc27/nba-players-react" target="_blank">
 <img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=nba-players-react&title_color=ffffff&bg_color=fe7704&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Orange-->
@@ -26,14 +33,6 @@ And here is my [LinkedIn page](https://linkedin.com/in/jtc27)
 <a href="https://github.com/jtc27/instagram-challenge" target="_blank">
 <img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=instagram-challenge&title_color=ffffff&bg_color=438AF4&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Blue-->
- 
-<a href="https://github.com/jtc27/bowling-challenge">
-<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=bowling-challenge&title_color=ffffff&bg_color=18B400&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
-<!--Green-->
- 
-<a href="https://github.com/jtc27/rps-challenge">
-<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=rps-challenge&title_color=ffffff&bg_color=EBA422&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
-<!--Yellow-->
 
 </p>
 
