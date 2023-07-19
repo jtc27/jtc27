@@ -19,7 +19,7 @@ And here is my [LinkedIn page](https://linkedin.com/in/jtc27)
 <p align="left">
 
 <a href="https://github.com/jtc27/shopazon">
-<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=shopazon_online_shopping&title_color=ffffff&bg_color=18B400&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
+<img width="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jtc27&repo=shopazon-online-shopping&title_color=ffffff&bg_color=18B400&text_color=ffffff&icon_color=ffffff&show_icons=true" /></a>
 <!--Green-->
  
 <a href="https://github.com/jtc27/airbnb-clone-react">
