@@ -3,8 +3,8 @@ Hi I'm Jacob, welcome to my page.
 Tech:
 Javascript, NODE, React, HTML, CSS, Bootstrap, Ruby, Rails, Heroku, Firebase, MERN.
 
-Resume: [CV on Github](https://github.com/jtc27/CV)<br>
 Website: [https://jtc27.github.io](https://jtc27.github.io)<br>
+Resume: [CV on Github]([https://github.com/jtc27/CV](https://jtc27.github.io/JacobCho_CV.pdf))<br>
 And here is my [LinkedIn page](https://linkedin.com/in/jtc27)
 
 <p align="left">
